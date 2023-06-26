@@ -1,3 +1,5 @@
 .idea
 .env
 vendor
+/docker/log/*
+docker/log/cron/cron.log

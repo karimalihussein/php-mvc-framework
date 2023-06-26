@@ -1,1 +1,3 @@
 storage
+log
+/docker/log/cron/cron.log
