@@ -1,4 +1,15 @@
 {
+    "name": "karimalihussein/php-mvc-framework",
+    "description": "A simple PHP MVC framework for building web applications, with clean documentation and a friendly community.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karim Ali Hussein",
+            "email": "karimalihussein99@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require": {},
     "autoload": {
         "psr-4": {
